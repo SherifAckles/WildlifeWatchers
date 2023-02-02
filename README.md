@@ -1,6 +1,7 @@
 # WildlifeWatchers
 
 This is a React JS project aimed at raising awareness about 11 endangered animals and giving users a way to support their preservation. The project features images of 11 different animals and a "Save me from Extinction" button for each one. By clicking the button, users can show their support for the conservation of that particular animal. Additionally, users can also click on a heart icon to indicate their love for the animal, and the heart will grow in size with each click to reflect the growing support from the community. The goal of the project is to bring attention to these animals and inspire people to take action to help preserve them.
+the live version: https://wildlifewatchers.netlify.app/
 
 # Getting Started with Create React App
 
